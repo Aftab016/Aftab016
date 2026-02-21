@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>📍 Based in: India<br>🎓 Degree: BCA (Assam Down Town University)<br>💻 Skills: Python, Ethical Hacking, Bug Bounty Hunting<br>🔧 Obsession: Modding mechanical keyboards and mice. Always looking for the next best upgrade.<br>⌚ Hobbies: Collecting watches, cooking, and hanging out with my pets.<br><br>🎮 Gaming & Gear<br><br>🕹️ Games: CS2 (Main), Story-based titles.<br>🎧 Gear: Always testing new headphones, speakers, and peripherals.<br>⌨️ Current Setup: Modded keyboards .
+🚀 About Me<br><br>📍 Based in: India<br>🎓 Degree: BCA (Assam Down Town University)<br>💻 Skills: Python, Ethical Hacking, Bug Bounty Hunting<br>🔧 Obsession: Modding mechanical keyboards and mice.<br>⌚ Hobbies: Collecting watches, cooking, and hanging out with my pets.<br><br>🎮 Gaming & Gear<br><br>🕹️ Games: CS2 (Main), Story-based titles.<br>🎧 Gear: Always testing new headphones, speakers, and peripherals.<br>⌨️ Current Setup: Modded keyboards .
 
 
 ## 🌐 Socials:
