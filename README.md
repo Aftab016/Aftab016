@@ -1,15 +1,70 @@
-# 💫 About Me:
-🚀 About Me<br><br>📍 Based in: India<br>🎓 Degree: BCA (Assam Down Town University)<br>💻 Skills: Python, Ethical Hacking, Bug Bounty Hunting<br>🔧 Obsession: Modding mechanical keyboards and mice.<br>⌚ Hobbies: Collecting watches, cooking, and hanging out with my pets.<br><br>🎮 Gaming & Gear<br><br>🕹️ Games: CS2 (Main), Story-based titles.<br>🎧 Gear: Always testing new headphones, speakers, and peripherals.<br>⌨️ Current Setup: Modded keyboards .
+# Hi there, I'm Aftab 👋
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gamertrojan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-aftab-al-farook-683089324) 
+**Full-stack Developer | Ethical Hacker | Security Enthusiast**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white)
-<!--# 📊 GitHub Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=Aftab016&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aftab016&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab016&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🎯 About Me
+
+```
+📍 Location: India
+🎓 Education: BCA from Assam Down Town University
+💡 Passion: Cybersecurity, Ethical Hacking & Bug Bounty Hunting
+🎮 Hobby: Mechanical Keyboard Modding
+```
+
+I'm a passionate developer and security researcher focused on building secure applications and identifying vulnerabilities. With expertise in Python and ethical hacking, I'm committed to making the digital world safer.
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=a6e3a1)
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=java&logoColor=a6e3a1)
+![C](https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=a6e3a1)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=a6e3a1)
+
+**Security & Tools**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e2e?style=for-the-badge&logo=kalilinux&logoColor=a6e3a1)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1e1e2e?style=for-the-badge&logo=portswigger&logoColor=a6e3a1)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=a6e3a1)
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://linkedin.com/in/aftab016)
+[![Instagram](https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7)](https://instagram.com/gamertrojan)
+[![Twitter](https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=x&logoColor=89dceb)](https://twitter.com/aftab016)
+[![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab016&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4&icon_color=89dceb)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Aftab016&theme=github-dark&hide_border=true&background=1e1e2e&stroke=a6e3a1&ring=a6e3a1&fire=a6e3a1&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=cdd6f4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab016&theme=github_dark&hide_border=true&layout=compact&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4)
+
+</div>
+
+---
+
+<div align="center">
+
+**Always learning. Always improving.** ✨
+
+</div>
