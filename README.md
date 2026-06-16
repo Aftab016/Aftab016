@@ -40,7 +40,7 @@ I'm a passionate developer and security researcher focused on building secure ap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://linkedin.com/in/aftab016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)]([https://linkedin.com/in/aftab016](https://www.linkedin.com/in/sheikh-aftab-al-farook-683089324/))
 [![Instagram](https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7)](https://instagram.com/gamertrojan)
 [![Twitter](https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=x&logoColor=89dceb)](https://twitter.com/aftab016)
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:your.email@example.com)
