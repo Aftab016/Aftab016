@@ -49,17 +49,6 @@ I'm a passionate developer and security researcher focused on building secure ap
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab016&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4&icon_color=89dceb)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Aftab016&theme=github-dark&hide_border=true&background=1e1e2e&stroke=a6e3a1&ring=a6e3a1&fire=a6e3a1&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=cdd6f4&dates=cdd6f4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab016&theme=github_dark&hide_border=true&layout=compact&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4)
-
-</div>
 
 ---
 
